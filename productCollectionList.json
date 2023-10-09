@@ -1,0 +1,118 @@
+[
+  {
+    "category": "Bed Collections",
+    "categoryName": "Langham",
+    "categoryUrl": "/bedroom/bed-collections/Langham",
+    "categoryImage": "",
+    "collections": [
+      {"collectionName": "Langham in oatmeal","collectionUrl": "/bedroom/bed-collections/langham/?filter=colour-bf:neutral-cream","collectionImageUrl": ""},
+  	  {"collectionName": "Langham in grey","collectionUrl": "/bedroom/bed-collections/langham/?filter=colour-bf:grey","collectionImageUrl": ""},
+  	  {"collectionName": "Langham in black","collectionUrl": "/bedroom/bed-collections/langham/?filter=colour-bf:black","collectionImageUrl": ""}
+    ]
+  },{
+    "category": "Bed Collections",
+    "categoryName": "Caversham",
+    "categoryUrl": "/bedroom/bed-collections/Caversham",
+    "categoryImage": "",
+    "collections": [
+      {"collectionName": "Caversham in oatmeal","collectionUrl": "/bedroom/bed-collections/caversham/?filter=colour-bf:neutral-cream","collectionImageUrl": ""},
+  	  {"collectionName": "Caversham in grey","collectionUrl": "/bedroom/bed-collections/caversham/?filter=colour-bf:grey","collectionImageUrl": ""},
+  	  {"collectionName": "Caversham in black","collectionUrl": "/bedroom/bed-collections/caversham/?filter=colour-bf:black","collectionImageUrl": ""}
+    ]
+  },{
+    "category": "Bed Collections",
+    "categoryName": "Lexington",
+    "categoryUrl": "/bedroom/bed-collections/Lexington",
+    "categoryImage": "",
+    "collections": [
+      {"collectionName": "Lexington in oatmeal","collectionUrl": "/bedroom/bed-collections/lexington/?filter=colour-bf:neutral-cream","collectionImageUrl": ""},
+	   {"collectionName": "Lexington in grey","collectionUrl": "/bedroom/bed-collections/lexington/?filter=colour-bf:grey","collectionImageUrl": ""}
+    ]
+  },{
+    "category": "Bed Collections",
+    "categoryName": "Astor",
+    "categoryUrl": "/bedroom/bed-collections/Astor",
+    "categoryImage": "",
+    "collections": [
+      {"collectionName": "Astor in oatmeal","collectionUrl": "/bedroom/bed-collections/astor/?filter=colour-bf:neutral-cream","collectionImageUrl": ""},
+	   {"collectionName": "Astor in grey","collectionUrl": "/bedroom/bed-collections/astor/?filter=colour-bf:grey","collectionImageUrl": ""}
+    ]
+  },{
+    "category": "Bed Collections",
+    "categoryName": "Florin",
+    "categoryUrl": "/bedroom/bed-collections/Florin",
+    "categoryImage": "",
+    "collections": [
+      {"collectionName": "Florin in oatmeal","collectionUrl": "/bedroom/bed-collections/florin/?filter=colour-bf:neutral-cream","collectionImageUrl": ""},
+	   {"collectionName": "Florin in grey","collectionUrl": "/bedroom/bed-collections/florin/?filter=colour-bf:grey","collectionImageUrl": ""}
+    ]
+  },{
+    "category": "Bed Collections",
+    "categoryName": "Buckingham",
+    "categoryUrl": "/bedroom/bed-collections/Buckingham",
+    "categoryImage": "",
+    "collections": [
+      {"collectionName": "Buckingham in oatmeal","collectionUrl": "/bedroom/bed-collections/buckingham/?filter=colour-bf:neutral-cream","collectionImageUrl": ""},
+	   {"collectionName": "Buckingham in grey","collectionUrl": "/bedroom/bed-collections/buckingham/?filter=colour-bf:grey","collectionImageUrl": ""}
+    ]
+  },{
+    "category": "Bed Collections",
+    "categoryName": "Caro",
+    "categoryUrl": "/bedroom/bed-collections/Caro",
+    "collections": [
+      {"collectionName": "Caro in oatmeal","collectionUrl": "/bedroom/bed-collections/caro/?filter=colour-bf:neutral-cream","collectionImageUrl": ""},
+	   {"collectionName": "Caro in grey","collectionUrl": "/bedroom/bed-collections/caro/?filter=colour-bf:grey","collectionImageUrl": ""}
+    ]
+  },{
+    "category": "Bed",
+    "categoryName": "Walkworth",
+    "categoryUrl": "/bedroom/bed-collections/Walkworth",
+    "categoryImage": "",
+    "collections": [
+      {"collectionName": "Walkworth in linen","collectionUrl": "/bedroom/bed-collections/walkworth/","collectionImageUrl": ""}
+    ]
+  },{
+    "category": "Bed Collections",
+    "categoryName": "Eldon",
+    "categoryUrl": "/bedroom/bed-collections/Eldon",
+    "categoryImage": "",
+    "collections": [
+      {"collectionName": "Eldon in oatmeal","collectionUrl": "/bedroom/bed-collections/eldon/?filter=colour-bf:neutral-cream","collectionImageUrl": ""},
+	  {"collectionName": "Eldon in grey","collectionUrl": "/bedroom/bed-collections/eldon/?filter=colour-bf:grey","collectionImageUrl": ""}
+    ]
+  },{
+    "category": "Bed Collections",
+    "categoryName": "Fairmont",
+    "categoryUrl": "/bedroom/bed-collections/Fairmont",
+    "categoryImage": "",
+    "collections": [
+      {"collectionName": "Fairmont in oatmeal","collectionUrl": "/bedroom/bed-collections/fairmont/?filter=colour-bf:neutral-cream","collectionImageUrl": ""},
+	  {"collectionName": "Fairmont in grey","collectionUrl": "/bedroom/bed-collections/fairmont/?filter=colour-bf:grey","collectionImageUrl": ""}
+    ]
+  },{
+    "category": "Bed Collections",
+    "categoryName": "Alderley",
+    "categoryUrl": "/bedroom/bed-collections/Alderley",
+    "categoryImage": "",
+    "collections": [
+      {"collectionName": "Alderley in oatmeal","collectionUrl": "/bedroom/bed-collections/alderley/?filter=colour-bf:neutral-cream","collectionImageUrl": ""},
+	  {"collectionName": "Alderley in grey","collectionUrl": "/bedroom/bed-collections/alderley/?filter=colour-bf:grey","collectionImageUrl": ""}
+    ]
+  },{
+    "category": "Bed Collections",
+    "categoryName": "Kenley",
+    "categoryUrl": "/bedroom/bed-collections/Kenley",
+    "categoryImage": "",
+    "collections": [
+      {"collectionName": "Kenley in oatmeal","collectionUrl": "/bedroom/bed-collections/kenley/?filter=bedroom-type:bed-frame,ottoman	","collectionImageUrl": ""}
+    ]
+  },{
+    "category": "Sofa Collections",
+    "categoryName": "Langham",
+    "categoryUrl": "/bedroom/bed-collections/Langham",
+    "categoryImage": "",
+    "collections": [
+      {"collectionName": "test","collectionUrl": "/test ","collectionImageUrl": ""}
+    ]
+  }
+]
